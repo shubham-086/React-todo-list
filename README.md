@@ -4,9 +4,9 @@ A minimalistic, customisable todo app.
 
 ## Screenshots
 
-<img src="./demo1.png"/>
-<img src="./demo2.png"/>
-<img src="./demo3.png"/>
+<img src="./demo1.png">
+<img src="./demo2.png">
+<img src="./demo3.png">
 
 
 ## Features
