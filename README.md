@@ -4,9 +4,9 @@ A minimalistic, customisable todo app.
 
 ## Screenshots
 
-<img src="./demo1.png">
-<img src="./demo2.png">
-<img src="./demo3.png">
+<img src="https://github.com/shubham-086/React-todo-list/blob/master/demo1.png">
+<img src="https://github.com/shubham-086/React-todo-list/blob/master/demo2.png">
+<img src="https://github.com/shubham-086/React-todo-list/blob/master/demo3.png">
 
 
 ## Features
